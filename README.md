@@ -1,5 +1,5 @@
 # OverMind
-Note: v6k is my github for university courses. This is my personal account.
+Note: [v6k](https://github.com/v6k/) is my github for university courses. This is my personal account.
 
 A SC2 Bot for CMPUT 350 at UAlberta.
 

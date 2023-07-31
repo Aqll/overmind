@@ -1,10 +1,3 @@
-# OverMind
-Note: [v6k](https://github.com/v6k/) is my github for university courses. [This](https://github.com/Aqll) is my personal github.
-
-A SC2 Bot for CMPUT 350 at UAlberta.
-
-This bot works with our fork of [Sc2LadderServer](https://github.com/solinas/Sc2LadderServer) which will be used to run the tournament at the end of the term.
-
 # Developer Install / Compile Instructions
 ## Requirements
 * [CMake](https://cmake.org/download/)
@@ -87,3 +80,5 @@ For example,
 ```
 
 will result in the bot playing against the zerg built-in AI on hard difficulty on the map CactusValleyLE.
+
+### Note: [v6k](https://github.com/v6k/) is my github for university courses. [Aqll](https://github.com/Aqll) is my personal github.

@@ -80,5 +80,3 @@ For example,
 ```
 
 will result in the bot playing against the zerg built-in AI on hard difficulty on the map CactusValleyLE.
-
-### Note: [v6k](https://github.com/v6k/) is my github for university courses. [Aqll](https://github.com/Aqll) is my personal github.

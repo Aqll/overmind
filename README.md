@@ -8,7 +8,7 @@ Starcraft II is one of the most challenging games, requiring players to excel in
 
 The objective of this project is to create an AI bot for Starcraft II that can effectively play as the Protoss race using Stalkers as its primary military unit. The bot should demonstrate proficiency in resource management, unit production, and decision-making in both defensive and offensive scenarios. By optimizing the build order and attacking strategy, we aim to achieve a high win rate against various difficulties and races.
 
-<img align = right width = 400 height = 330 src = "https://thumbs.gfycat.com/AdeptNegativeChick.webp">
+<img align = right width = 350 height = 330 src = "https://thumbs.gfycat.com/AdeptNegativeChick.webp">
 <img src = "https://bnetcmsus-a.akamaihd.net/cms/page_media/ZT67AGJZQT5M1509422059370.gif">
 
 ## Table of Contents
